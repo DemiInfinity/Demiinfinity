@@ -48,9 +48,7 @@
 ## 💼 Experience  
 
 **🌺 Software Developer @ Cintra HR & Payroll (Aug 2024 – Present)**  
-- Developing **HR & Payroll solutions** with **Angular & C#**  
-- Building **modern, user-friendly frontends** and **scalable backends**  
-- Enhancing performance and accessibility for enterprise users  
+- Developing **HR & Payroll solutions** with **Angular & C#**   
 
 **🌸 Mid-Level Software Developer @ PASS LTD (Jun 2024 – Aug 2024)**  
 - Optimized updates → **80% less manual work**  
