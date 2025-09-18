@@ -1,7 +1,8 @@
 <!-- Demi Taylor Nimmo | Modern Girly GitHub Profile -->
 
 <h1 align="center">✨ Hi, I'm Demi Taylor Nimmo ✨</h1>
-<h3 align="center">💻 Frontend Architect & Full-Stack Software Developer | 🌸 Building accessible, scalable & immersive apps</h3>
+<h3 align="center">💻 Frontend Architect & Full-Stack Software Developer</h3>
+<h3 align="center"> 🌸 Building accessible, scalable & immersive apps</h3>
 
 <p align="center">
   <!-- Cute tech badge row -->
