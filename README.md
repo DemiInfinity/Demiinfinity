@@ -1,7 +1,7 @@
 <!-- Demi Taylor Nimmo | Modern Girly GitHub Profile -->
 
 <h1 align="center">✨ Hi, I'm Demi Taylor Nimmo ✨</h1>
-<h3 align="center">💻 Full-Stack Software Developer | 🌸 Building accessible, scalable & immersive apps</h3>
+<h3 align="center">💻 Frontend Architect & Full-Stack Software Developer | 🌸 Building accessible, scalable & immersive apps</h3>
 
 <p align="center">
   <!-- Cute tech badge row -->
@@ -21,10 +21,10 @@
 
 ## 🌸 About Me  
 ✨ 3.5+ years building web apps in **Agile teams**  
-💡 Passionate about **accessible UIs** & **scalable serverless systems**  
+💡 Passionate about **accessible UIs**, **Component based Developement** & **scalable serverless systems**  
 🎮 Gamer & VR enthusiast exploring **VRChat worlds**  
-🌙 Creator of **LunaLore Platform** (for VTubers & communities)  
-📚 Always learning (currently: **Quantum Computing**)  
+🌙 Creator of **LunaLore Platform** (for VTubers & communities) (on hold) 
+📚 Always learning (currently: **Cypress Testing**)  
 
 ---
 
