@@ -81,13 +81,4 @@
 
 ---
 
-## 💕 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Demiinfinity&show_icons=true&theme=rose_pine" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Demiinfinity&layout=compact&theme=rose_pine" height="160"/>
-</p>
-
----
-
 <h3 align="center">💌 Let’s build something unforgettable 💌</h3>
