@@ -21,7 +21,7 @@
 ---
 
 ## 🌸 About Me  
-✨ 3.5+ years building web apps in **Agile teams**  
+✨ 4.5+ years building web apps in **Agile teams**  
 💡 Passionate about **accessible UIs**, **Component based Developement** & **scalable serverless systems**  
 🎮 Gamer & VR enthusiast exploring **VRChat worlds**  
 🌙 Creator of **LunaLore Platform** (for VTubers & communities) (on hold) <br/>
